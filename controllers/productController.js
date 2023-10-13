@@ -2,7 +2,7 @@ import productModel from "../models/productModel.js";
 import fs from "fs";
 import slugify from "slugify";
 import braintree from "braintree";
-import categoryModel from "../models/categoryModel.js";
+import categoryModel from "../models/categotyModel.js";
 
 //payment gateway
 // var gateway = new braintree.BraintreeGateway({
