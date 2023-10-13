@@ -31,7 +31,7 @@ const Header = () => {
       <span className="navbar-toggler-icon" />
     </button>
     <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
-      <Link className="navbar-brand" href="#"> <SiShopee/>Classy Closet</Link> 
+      <Link className="navbar-brand" href="#"> <AiFillShop/>Classy Closet</Link> 
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
               <SearchInput />
               <li className="nav-item">
