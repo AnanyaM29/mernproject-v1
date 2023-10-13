@@ -14,7 +14,7 @@ const AboutPage = ()=>{
           </div>
           <div className="col-md-4">
             <p className="text-justify mt-2">
-            Welcome to Ecommerce App, your trusted online shopping platform.
+            Welcome to Classy Closet, your trusted online shopping platform.
              We are dedicated to providing high-quality products and a seamless shopping 
              experience for our customers. 
              Our mission is to offer a wide range of products that meet your needs and preferences.
